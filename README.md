@@ -1,7 +1,3 @@
-<p align="center">
- <h2 align="center">Welcome to my Profile</h2>
-</p>
-
 ### Hello 👋 I am [João Ferreira](https://github.com/joaogferreira)
 
 <a href="https://www.linkedin.com/in/joao-g-ferreira/">
